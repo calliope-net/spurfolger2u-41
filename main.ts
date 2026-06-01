@@ -1,5 +1,5 @@
 function GitHub () {
-    callibot2.comment("calliope-net/spurfolger2e-41")
+    callibot2.comment("calliope-net/spurfolger2u-41")
     callibot2.comment("1 Erweiterung: calliope-net/callibot2")
 }
 input.onButtonEvent(Button.A, input.buttonEventClick(), function () {
